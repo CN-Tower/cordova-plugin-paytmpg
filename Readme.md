@@ -110,11 +110,11 @@ var failureCallback(error) {
 ```
 
 ##### References:
-[Various fields avialbale in "options"](http://paywithpaytm.com/developer/paytm_api_doc?target=transaction-request-api)
-[Doc on response from the plugin](http://paywithpaytm.com/developer/paytm_api_doc?target=interpreting-response-sent-by-paytm)
-[Logic to generate checksum](http://paywithpaytm.com/developer/paytm_api_doc?target=generating-checksum)
-Paytm guys suggests to verify the transaction status manually after the successful transaction.
-[Refer this link to know about it](http://paywithpaytm.com/developer/paytm_api_doc?target=txn-status-api)
+[Various fields avialbale in "options"](http://paywithpaytm.com/developer/paytm_api_doc?target=transaction-request-api)   
+[Doc on response from the plugin](http://paywithpaytm.com/developer/paytm_api_doc?target=interpreting-response-sent-by-paytm)   
+[Logic to generate checksum](http://paywithpaytm.com/developer/paytm_api_doc?target=generating-checksum)   
+Paytm guys suggests to verify the transaction status manually after the successful transaction.   
+[Refer this link to know about it](http://paywithpaytm.com/developer/paytm_api_doc?target=txn-status-api)   
 
 ##### Note:
 * ENVIRONMENT info has to be part of 'options', which says the environment  transaction has to be started. Possible values are 'staging' and 'production'.
