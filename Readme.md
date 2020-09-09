@@ -3,16 +3,13 @@
 > Base on Paytm all-in-one SDK
 
 ### Supported Platform
-==================
 - Android
 - iOS
 
 ### Document
-==================
 https://developer.paytm.com/docs/all-in-one-sdk/hybrid-apps/ionic/
 
 ### Installation
-==================
 Install `cordova-plugin-paytmpg` plugin.
 ```
 cordova plugin add cordova-plugin-paytmpg --variable MERCHANT_ID=<MerchantID> --variable INDUSTRY_TYPE_ID=<IndustryType> --variable WEBSITE=<WAPWebsiteName> --save
@@ -28,7 +25,6 @@ repositories {
 ```
 
 ### Usage
-==================
 ##### Add below line to declaration.d.ts file
 ```
 declare var paytm : any;
