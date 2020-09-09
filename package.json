@@ -1,0 +1,39 @@
+{
+  "version": "1.0.0",
+  "name": "cordova-plugin-paytmpg",
+  "author": "CN-Tower",
+  "bugs": {
+    "url": "https://github.com/CM-Tower/cordova-plugin-paytmpg/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-paytmpg",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "cordova_name": "PaytmPG",
+  "deprecated": false,
+  "description": "This Plugin allows you to integrate PayTM application into a cordova app.",
+  "homepage": "https://github.com/CM-Tower/cordova-plugin-paytmpg#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "PaytmPG",
+    "PayTM",
+    "Payment",
+    "Gateway",
+    "Mobile"
+  ],
+  "license": "MIT",
+  "platforms": [
+    "ios",
+    "android"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CM-Tower/cordova-plugin-paytmpg.git"
+  }
+}
