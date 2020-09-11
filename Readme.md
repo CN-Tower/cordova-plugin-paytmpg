@@ -30,7 +30,7 @@ repositories {
 declare var paytm : any;
 ```
 
-##### Start a Payment with specisl Payment Method
+##### Start a Payment with specisl Payment Method (Android Only)
 ```
 paytm.startOrder(options, successCallback, failureCallback);
 
